@@ -1,0 +1,13 @@
+
+{
+  "name"= "devops-ci-pipeline2",
+  "version": "1.0.0",
+  "script": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.0.0"
+};
+  "dependencies": {}
+}
+
